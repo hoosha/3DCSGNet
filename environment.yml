@@ -16,5 +16,6 @@ dependencies:
   - six
   - pillow
   - configobj
+  - deepdish
  # - argparse=1.4
  # - json
