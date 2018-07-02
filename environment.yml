@@ -10,7 +10,7 @@ dependencies:
   - pathlib2=2.3
   - scipy=0.19.1
   - torchvision
-  - pytorch=0.3
+  - pytorch
   - typing
   - scikit-image
   - six
