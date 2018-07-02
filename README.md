@@ -12,6 +12,9 @@ This code base contains model architecture and dataset for 3D-CSGNet. For 2D-CSG
   ```bash
   conda env create -f environment.yml -n 3DCSGNet
   source activate 3DCSGNet
+  pip install tensorboard_logger
+  sudo apt update
+  sudo apt install libgl1-mesa-glx
   ```
 
 ### Data
